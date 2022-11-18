@@ -3,7 +3,7 @@
 **lmichan/lmichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Actualmente estoy trabajando en Bioinformación
-- 🌱 En este momento las aplicaciones que más utilizo para mi investigación son: Google, Github, Wikidata, Hypothes.is, Hypothe.is, R, Phyton y Mastodon
+- 🌱 En este momento las aplicaciones que más utilizamos para investigación son: Google, Github, Wikidata, Hypothes.is, Hypothe.is, R, Phyton y Mastodon
 - 👯 Busco colaborar en Wikidata, Bases de datos Biológicas, Biocuración, Biontologías y humanidades Digitales
 - 🤔 Me interesa integrar proyectos de biología, datos, literatura e historia
 - 💬 Pregúntame sobre información biológica
