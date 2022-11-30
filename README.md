@@ -13,8 +13,17 @@
 
 
 📫 Cómo contactarme: 
+     🆔ORCID https://orcid.org/0000-0002-5798-662X
+     
      🌍Wikimedia https://www.wikidata.org/wiki/User:Lmichan
+     
      🐦Twitter https://twitter.com/Biocolores y 
-     🆔ORCID https://orcid.org/0000-0002-5798-662X y https://twitter.com/infovestigacion
+    y https://twitter.com/infovestigacion
+    
      🎓Google Scholar https://scholar.google.com/citations?user=uDU1oTcAAAAJ&hl=en
+     
      🗣Todos mis prerfiles https://linktr.ee/lmichan
+     
+     🐘 @lma@mstdn.social
+     
+      
